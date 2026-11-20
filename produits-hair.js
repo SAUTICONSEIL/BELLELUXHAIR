@@ -14,6 +14,32 @@ window.BOUTIQUE = {
   messageContact: 'Bonjour Bellelux Hair, je souhaite avoir des renseignements sur vos perruques en précommande.',
   produits: [
     {
+      id: 'sdd-caramel-ombre-22',
+      nom: 'SDD Caramel Ombré',
+      surtitre: 'Raw hair Vietnamese · Perruque couleur SDD',
+      categorie: 'Longue',
+      images: ['perruques/sdd-caramel-ombre-22.jpg'],
+      cadrage: '50% 30%',
+      prix: 275000,
+      badge: '',
+      resume: 'Longueur 22 · Closure 5x5',
+      description: 'Racine brune fondue dans un caramel doré. Une perruque Raw hair Vietnamese couleur SDD en longueur 22, 200 grammes, avec closure 5x5.\n\nUne chevelure longue, lisse et généreuse, pour une allure élégante en toute occasion.',
+      details: [['Type', 'Raw hair Vietnamese'], ['Longueur', '22'], ['Poids', '200 grammes'], ['Finition', 'Closure 5x5'], ['Couleur', 'Racine brune fondue dans un caramel doré']]
+    },
+    {
+      id: 'sdd-cuivre-ombre-22',
+      nom: 'SDD Cuivre Ombré',
+      surtitre: 'Raw hair Vietnamese · Perruque couleur SDD',
+      categorie: 'Longue',
+      images: ['perruques/sdd-cuivre-ombre-22.jpg'],
+      cadrage: '50% 30%',
+      prix: 265000,
+      badge: '',
+      resume: 'Longueur 22 · Closure 2x6',
+      description: 'Racine noire fondue dans un cuivre profond. Une perruque Raw hair Vietnamese couleur SDD en longueur 22, 200 grammes, avec closure 2x6.\n\nUne chevelure longue, lisse et généreuse, pour une allure élégante en toute occasion.',
+      details: [['Type', 'Raw hair Vietnamese'], ['Longueur', '22'], ['Poids', '200 grammes'], ['Finition', 'Closure 2x6'], ['Couleur', 'Racine noire fondue dans un cuivre profond']]
+    },
+    {
       id: 'pixie-curl-ombre-34',
       nom: 'Pixie Curl Ombré Long',
       surtitre: 'Raw hair Vietnamese · Perruque pixie curl',
